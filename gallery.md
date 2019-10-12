@@ -28,7 +28,7 @@ gallery:
     alt: "placeholder image flow1"
     title: "Image flow1 title caption"   
     - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+    image_path:vioghn.github.io /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
 ---
