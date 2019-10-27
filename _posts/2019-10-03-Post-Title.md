@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: Sample post 1
+title: DIY blog
 ---
-
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
+in this post I want to show that how can a HDD return into different things that may be useful :) 
+[a  reletive link] (https://youtu.be/2Qq2awaOzhU.md)
 
 
 ---
