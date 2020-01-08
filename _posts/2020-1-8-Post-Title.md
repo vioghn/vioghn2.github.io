@@ -4,7 +4,7 @@ title: summery
 ---
 
 
-here is the summery of what have we done  with our personal website for the  computer lab lesson:
+here is the summery of what have we done  with our personal website for the  computer lab lesson during this term:
 
 1 -first we have forked and cloned the address of a general website from our profossors github page to access the files and folders, so we achieved  the ability to change differrent things on it such as changing the name, emails , profile pictures putting pictures and so on; finally our primary personal webite was made :)
 
