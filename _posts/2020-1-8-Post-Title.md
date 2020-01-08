@@ -17,7 +17,7 @@ here is the summery of what have we done  with our personal website for the  com
 
 <html>
  <body>
- <img src = "/asserts/images/now.jpg" alts = "time" width = "3042" height = "4032">
+ <img src = "/assets/images/now.jpg" alts = "time" width = "460" height = "352">
  </body>
 </html>
 
