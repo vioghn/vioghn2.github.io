@@ -111,22 +111,22 @@ author:
   avatar           : "/assets/images/flow1.jpg"
   bio              : "student of computer engineering at IUST"
   location         : "تهران"
-  email            : "banafshehgholinejad802@gmail.com"
+  email:
   twitter: 
   linkedin         : www.linkedin.com/in/banafsheh-gholinejad- 
   google_scholar: Q25s5KkAAAAJ
   github: "vioghn"
   instagram: 
   links:
-    # - label: "Email"
-    #   icon: "gmail-square"
-    #   url: banafshehgholinejad802@email.com
+    - label: "Email"
+      icon: "gmail-square"
+      url: banafshehgholinejad802@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "linkedin"
+      icon: "linkedin-square"
+      url: "www.linkedin.com/in/banafsheh-gholinejad- "
     - label: "calendly"
       icon: "calendly-square"
       url: "https://calendly.com/banafshehgholinejad802"
