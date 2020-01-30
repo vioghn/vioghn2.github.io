@@ -3,15 +3,7 @@ main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
-  - title: "Links"
-    url: /links/
-  - title: "Hobbies"
-    url: /hobbies/  
+    url: /cv/  
   - title: "Gallery"
     url: /gallery/
   - title: "Blog"
