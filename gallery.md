@@ -16,7 +16,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - 
-
 ---
+ <img src = "/assets/images/1.jpg" alts = "image1" width = "460" height = "352">
 
 
