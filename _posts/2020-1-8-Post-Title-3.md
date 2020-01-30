@@ -11,7 +11,7 @@ Here is the summery of what have we done  with our personal website for the  com
 
 3.the last one is what im doing here now, make a summery of what had we just done with our personal website  :)
 
-<https://sauleh.github.io/fc98/>
+<https://vioghn.github.io/digital_electronics/>
 
 
 <html>
