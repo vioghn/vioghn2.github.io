@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "banafsheh gholinejad "
-  avatar           : ""
+  avatar           : "/assets/images/av.jpg"
   bio              : "student of computer engineering at IUST"
   location         : "تهران"
   email            : banafshehgholinejad802@gmail.com
