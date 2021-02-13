@@ -48,6 +48,7 @@ o(n^2)
 من برای لوپ اول تاخیر 1 ثانیه و لوپ دوم 0.5 ثانیه در نظر گرفتم.
 
 <html>
+
  <body>
  <img src = "/assets/images/tf.jpg" alts = "third" width = "460" height = "352">
  </body>
@@ -62,6 +63,7 @@ o(n^2)
  <img src = "/assets/images/4f.jpg" alts = "forth" width = "460" height = "352">
  </body>
 </html>
+ ![image](./assets/images/thf.jpg)
 
 به طور کلی ، اول صدای الگوریتم مرتب نشده نواخته می شود،‌ به ازای هر بار رقتن در حلقه،‌ صدای پس زمینه را تولید و ملودی وسط آهنگ صدای سورت شدن آرایه است و در انتها نیز ارایه مرتب شده نواخته میشود. به طور کلی ،‌این روش تجربه ی جدید و بسیار حالبی
 برای من بود و  کمک خلاقانه ای برای درک جدید برنامه نویسی و  نحوه ی نجام الگوریتم ایجاد می کند .
@@ -73,4 +75,7 @@ o(n^2)
  لینک صدا:‌
  <https://soundcloud.com/banafsheh-gholinejad/insertion-sort-music?ref=clipboard&p=i&c=1>
 
+
+ ![image](./assets/images/thf.jpg)
+ ![image y](/assets/images/thf.jpg)
 ---
